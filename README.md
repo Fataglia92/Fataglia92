@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fataglia92
 - 👀 I’m interested in AI new approaches, artificial consciousness and cybernectics.
 - 🌱 I’m currently learning computer vision frameworks, C++ and robotics 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any project related to my study subjects
 - 📫 How to reach me f.tagliavini@mail.ru
 
 <!---
